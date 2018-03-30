@@ -1,0 +1,12 @@
+p.emoji {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  margin: 0;
+  vertical-align: bottom;
+  color: transparent;
+  font-size: 1em;
+}
+p.emoji::selection {
+  color: transparent;
+}
