@@ -1,10 +1,10 @@
 # jsEmojiLib
-Easy implementation of support for all emoji
+Simple implementation of support for all emojis
 
 ### Getting started
-Download and unzip the lib folder to the root of your project. Include the library to the project as shown in the example.
+Download and unpack the lib folder to the root directory of your project. Include the library in the project, as shown in the Example.
 
 ![example](/res/1.jpg "example")
 
-The library allows you to create beautiful emojis with the ability to copy.
-The author of the map emoji: [@DrKLO](https://github.com/DrKLO) ([src](https://github.com/DrKLO/Telegram/tree/master/TMessagesProj/src/main/assets/emoji)).
+The library allows you to display beautiful emojis with the ability to copy.
+The author of the emojis map: [@DrKLO](https://github.com/DrKLO) ([src](https://github.com/DrKLO/Telegram/tree/master/TMessagesProj/src/main/assets/emoji)).
